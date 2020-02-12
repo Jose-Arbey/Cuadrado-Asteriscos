@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Cuadrado {
 	public static void main(String[] args) {
 
+
+		// Comienza a copiar desde aqui
 		Scanner entrada = new Scanner(System.in);
 
 		System.out.print("Escribe el numero de asteriscos por lado: ");
@@ -27,5 +29,7 @@ public class Cuadrado {
 				System.out.println();
 			}
 		}
+
+		// Termina de copiar hasta aqui XD
 	}
 }
